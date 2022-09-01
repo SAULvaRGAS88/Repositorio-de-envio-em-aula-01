@@ -1,2 +1,2 @@
-console.log("Oi, eu sou o Saul")
-console.log("<<< Oi, eu sou o Goku >>>")
+alert("Oi, eu sou o Saul")
+alert("<<< Oi, eu sou o Goku >>>")
